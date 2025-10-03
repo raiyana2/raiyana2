@@ -1,5 +1,4 @@
 # 💫 Hi there! I am Raiyana Rahman:
-
 <br>🎓 I am a 3rd year Computer Science student at the University of Alberta<br>🧑‍💻 Currently learning the nitty gritties of testing and CI/CD while exploring full stack development.<br>🚀 Looking for full stack, backend, and software engineering roles<br>👩‍🍳 Love experimenting with new recipes in my free time<br>
 
 <p align="center">
