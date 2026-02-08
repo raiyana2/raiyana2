@@ -1,5 +1,5 @@
 # 💫 Hi there! I am Raiyana
-<br>🎓 I am a 3rd year Computer Science student at the University of Alberta<br>🚀 Looking for full stack, backend, and software engineering roles<br>👩‍🍳 Love experimenting with new recipes in my free time<br>
+<br>🎓 I am a Computer Science student at the University of Alberta<br>🚀 Looking for full stack, backend, and software engineering roles<br>👩‍🍳 Love experimenting with new recipes in my free time<br>
 
 <p align="center">
   <img src="https://github.com/raiyana2/raiyana2/blob/output/github-snake-dark.svg" alt="snake gif">
