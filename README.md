@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;Building+cool+things+🚀;Open+to+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;Building+cool+things+;Open+to+Internships" />
 </p>
 
 
@@ -41,8 +41,9 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+<p align="center">
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:8A2BE2&height=120&section=footer"/>
