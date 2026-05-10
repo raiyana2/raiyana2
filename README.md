@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=Intern+@+ATB+Financial;Full+Stack+Developer;4th+year+Computer+Science+Student;Building+cool+things+;Open+to+Internships+and+co-ops" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=Intern+@+ATB+Financial;Full+Stack+Developer;3rd+year+Computer+Science+Student;Building+cool+things+;Open+to+Internships+and+co-ops" />
 </p>
 
 
@@ -13,7 +13,7 @@
   Hi, I'm Raiyana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
 </h2>
 - 💼 Intern @ ATB Financial  
-- 🎓 4th year Computer Science student @ University of Alberta  
+- 🎓 3rd year Computer Science student @ University of Alberta  
 - 🚀 Interested in **Full Stack, Backend & SWE roles**  
 - 👩‍🍳 Love experimenting with new recipes in my free time
   
